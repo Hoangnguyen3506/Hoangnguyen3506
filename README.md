@@ -4,7 +4,7 @@ Cybersecurity student focused on **infrastructure & systems security** and **pen
 
 ## 🔭 What I'm Up To
 
-- Interning as an Infrastructure Security Engineer, building lab environments for centralized logging, monitoring and intrusion detection
+- Interning as an Infrastructure Security Engineer in VNPT Cloud, building lab environments for centralized logging, monitoring and intrusion detection
 - Got sponsored and selected to participate in [Positive Hack Camp 2026](https://www.vietnamplus.vn/sinh-vien-viet-nam-gop-mat-tai-trai-he-hacker-mu-trang-quoc-te-o-nga-post1127150.vnp)
 - Practicing offensive security through CTFs and hands-on labs
 - Working toward a career in offensive security / penetration testing
