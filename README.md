@@ -4,7 +4,7 @@ Cybersecurity student focused on **infrastructure & systems security** and **pen
 
 ## 🔭 What I'm Up To
 
-- Interning as an Infrastructure Security Engineer in VNPT Cloud, building lab environments for centralized logging, monitoring and intrusion detection
+- Interning as an Infrastructure Security Engineer at VNPT Cloud, building lab environments for centralized logging, monitoring and intrusion detection
 - Got sponsored and selected to participate in [Positive Hack Camp 2026](https://swinburne-vn.edu.vn/news/sinh-vien-an-ninh-mang-swinburne-vietnam-tro-thanh-1-trong-3-dai-dien-viet-nam-tham-du-positive-hack-camp-tai-nga/?fbclid=IwY2xjawVFxX1leHRuA2FlbQIxMQBwZG9mBXNydGMGYXBwX2lkEDIyMjAzOTE3ODgyMDA4OTIAAR5i8VhrYgm7BsFpwj4AmW2EZa627n2cVMX5NN9Ma0s3F9OgsuIDFzh-GegDIg_aem_90ZLN46uD7gv5LfCr--lIg)
 - Practicing offensive security through CTFs and hands-on labs
 - Working toward a career in offensive security / penetration testing
